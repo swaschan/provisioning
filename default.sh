@@ -18,10 +18,7 @@ PIP_PACKAGES=(
   )
 
 EXTENSIONS=(
-    "https://github.com/d8ahazard/sd_dreambooth_extension"
     "https://github.com/deforum-art/sd-webui-deforum"
-    "https://github.com/adieyal/sd-dynamic-prompts"
-    "https://github.com/ototadana/sd-face-editor"
     "https://github.com/AlUlkesh/stable-diffusion-webui-images-browser"
     "https://github.com/hako-mikan/sd-webui-regional-prompter"
     "https://github.com/Coyote-A/ultimate-upscale-for-automatic1111"
@@ -29,7 +26,8 @@ EXTENSIONS=(
     "https://github.com/Gourieff/sd-webui-reactor"
     "https://github.com/zixaphir/Stable-Diffusion-Webui-Civitai-Helper"
     "https://github.com/continue-revolution/sd-webui-animatediff"
-    
+    "https://github.com/Mikubill/sd-webui-controlnet"
+    "https://github.com/canisminor1990/sd-web-ui-kitchen-theme"
 )
 
 CHECKPOINT_MODELS=(
@@ -43,6 +41,13 @@ CHECKPOINT_MODELS=(
 
 LORA_MODELS=(
     #"https://civitai.com/api/download/models/16576"
+    "https://civitai.com/api/download/models/62833"
+    "https://civitai.com/api/download/models/87153"
+    "https://civitai.com/api/download/models/90854"
+    "https://civitai.com/api/download/models/151490"
+    "https://civitai.com/api/download/models/256869"
+    "https://civitai.com/api/download/models/46846"
+    
 )
 
 VAE_MODELS=(
