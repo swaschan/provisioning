@@ -28,6 +28,7 @@ EXTENSIONS=(
     "https://github.com/continue-revolution/sd-webui-animatediff"
     #"https://github.com/Mikubill/sd-webui-controlnet"
     "https://github.com/canisminor1990/sd-web-ui-kitchen-theme"
+    "https://github.com/yankooliveira/sd-webui-photopea-embed"
 )
 
 CHECKPOINT_MODELS=(
